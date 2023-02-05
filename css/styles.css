@@ -225,3 +225,6 @@ h3 {
     cursor: pointer;
     background-color: var(--secundarioOscuro);
 }
+.formulario__campo>option{
+    background-color: var(--primario);
+}
